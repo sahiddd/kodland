@@ -1,0 +1,54 @@
+.titulo{
+
+   /* position: absolute;*/
+
+}
+.menu-deslizante {
+    position: absolute;
+    top: 0;
+    left: -250px; 
+    width: 250px;
+    height: 100vh;
+    background-color: #333;
+    
+}
+
+.menu-visible {
+    left: 0;
+}
+.header{
+    position:relative;
+    
+
+
+
+}
+#toggleMenu{
+    
+    position:absolute;
+    left:900px;
+    width: 25;
+    height: auto;
+    
+}
+
+
+
+.imagen1{
+    width:5px; 
+    height:5px;
+}
+#toggleMenu, #boton2, #boton3 {
+    position: absolute;
+    
+}
+
+#boton2 {
+    left: 450px;
+    bottom: 580px;
+}
+
+#boton3 {
+    left: 550px; 
+    bottom: 580px;
+}
